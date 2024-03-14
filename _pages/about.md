@@ -13,7 +13,7 @@ Before that, I did my masters in Data Science & Machine Learning at NTUA, Greece
 
 **Recent Updates**
 
-  * I will be presenting *Optimizing Objective Functions from Trained ReLU Neural Networks* at POMS Conference this May.
+  * I will be presenting *Optimizing Objective Functions from Trained ReLU Neural Networks* at POMS Conference on Sunday, April 28, 2:45 PM - 4:15 PM, Skyway B.
   * Our paper *Manifold-Aligned Counterfactual Explanations for Neural Networks* was accepted at AISTATS 2024!
   * Our paper *A Granular View of the Emergency Department Length of Stay: Improving Predictive Power and Extracting Actionable Insights* was accepted at Annals of Emergency Medicine!
   * Our paper *A Granular Approach to Optimal and Fair Patient Placement in Hospital Emergency Departments* was accepted at POM!
