@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Overview"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my personal webpage. I am a 4th year PhD candidate in Operations Research at MIT, where I am fortunate to be advised by [Georgia Perakis](https://mitmgmtfaculty.mit.edu/gperakis/). My research lies in the intersection of deep learning and discrete optimization with applications in causal ML, counterfactual explanations, hierarchical time series, LLMs, and healthcare.  My research is kindly supported by the Onassis Foundation and the Foundation for Educaiton and European Culture.
+Welcome to my personal webpage. I am a 4th year PhD candidate in Operations Research at MIT, where I am fortunate to be advised by [Georgia Perakis](https://mitmgmtfaculty.mit.edu/gperakis/). My research lies in the intersection of deep learning and discrete optimization with applications in causal ML, counterfactual explanations, hierarchical time series, LLMs, and healthcare.  My research is kindly supported by the Onassis Foundation and the Foundation for Education and European Culture.
 
 Before that, I did my masters in Data Science & Machine Learning at NTUA, Greece, where my thesis was advised by [Manolis Georgoulis](http://www.math.ntua.gr/~georgoulis/) and [Michail Loulakis](http://www.math.ntua.gr/~loulakis/info/Home.html). I also did my undergrad in ECE at NTUA where my thesis was supervised by [Nektarios Koziris](http://www.cslab.ntua.gr/~nkoziris/).
 

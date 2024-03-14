@@ -12,7 +12,7 @@ title                    : "Asterios Tsiourvas"
 title_separator          : "-"
 name                     : &name "Asterios Tsiourvas"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://asterios-tsiourvas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # repository               : "academicpages/academicpages.github.io"
 
@@ -206,7 +206,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
