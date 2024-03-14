@@ -1,9 +1,10 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+
 
 - **Learning Prescriptive ReLU Networks**
   - EPFL - Signal Processing Lab (LTS4) Group, 2023.
