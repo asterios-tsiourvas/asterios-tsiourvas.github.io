@@ -18,4 +18,4 @@ Before that, I did my masters in Data Science & Machine Learning at NTUA, Greece
   * Our paper *A Granular View of the Emergency Department Length of Stay: Improving Predictive Power and Extracting Actionable Insights* was accepted at Annals of Emergency Medicine!
   * Our paper *A Granular Approach to Optimal and Fair Patient Placement in Hospital Emergency Departments* was accepted at POM!
 
-You can download my latest CV by clicking [here](./Asterios_Tsiourvas_Academic_CV_Mar24.pdf)
+You can download my latest CV by clicking [here](./Asterios_Tsiourvas_Academic_CV.pdf)
