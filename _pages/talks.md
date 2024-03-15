@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 - **Manifold-Aligned Counterfactual Explanations for Neural Networks**
-  - AISTATS, 2024. (May 2024)
+  - AISTATS 2024. (May 2024)
 
 - **Learning Prescriptive ReLU Networks**
   - EPFL - Signal Processing Lab (LTS4) Group, 2023.
