@@ -63,6 +63,14 @@ author_profile: true
   - Co-authors: E. Kassela, N. Provatas, I. Konstantinou and N. Koziris. *IEEE International Conference on Big Data 2019*.
 
 
+## Working Papers
+
+- **Generalisation Error Control for Physics Informed Neural Networks with Probabilistic Training** \* ‡ [[preprint out soon]]()
+  - Co-authors: C. Makridakis and M. Loulakis.
+
+- **Interpretable Gradient-Based Discrete Prompt Optimization for Large Language Models** ‡ [[preprint out soon]]()
+  - Co-authors: G. Perakis, W. Sun, P. Y. Chen, and Y. Zhu.
+
 \* names in alphabetical order
 
 ‡ lead student author
