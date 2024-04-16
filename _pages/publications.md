@@ -15,7 +15,7 @@ author_profile: true
 
 - **Optimizing Objective Functions from Trained ReLU Neural Networks** \* † <small>[[pdf]](https://arxiv.org/pdf/2205.14189.pdf) (old version)</small> <br><span style="font-size: 0.9em;">Co-author: G. Perakis. <br>Under revision at *Management Science*. 2022 INFORMS RMP Spotlight Paper.</span> 
 
-- **A Granular View of the Emergency Department Length of Stay: Improving Predictive Power and Extracting Actionable Insights** \* † <small>[[pdf out soon]]()</small><br><span style="font-size: 0.9em;">Co-authors: M. Canellas, D. Pachamanova, G. Perakis, O. Skali Lami. <br>*Annals of Emergency Medicine (forthcoming)*.</span> 
+- **A Granular View of the Emergency Department Length of Stay: Improving Predictive Power and Extracting Actionable Insights** \* † <small>[[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0196064424000945)</small><br><span style="font-size: 0.9em;">Co-authors: M. Canellas, D. Pachamanova, G. Perakis, O. Skali Lami. <br>*Annals of Emergency Medicine*.</span> 
 
 - **A Granular Approach to Optimal and Fair Patient Placement in Hospital Emergency Departments** \* † <small>[[pdf]](https://journals.sagepub.com/doi/abs/10.1177/10591478241240390)</small><br><span style="font-size: 0.9em;"> Co-authors: M. Canellas, D. Pachamanova, G. Perakis, O. Skali Lami. <br>*Production and Operations Management (POM)*.</span> 
 
