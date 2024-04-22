@@ -33,7 +33,7 @@ author_profile: true
 
 - **Learning the Optimal Reconciliation for Hierarchical Time Series** † <small>[[pdf out soon]]()</small><br><span style="font-size: 0.9em;">Co-authors: G. Perakis, W. Sun, P. Y. Chen, Y. Zhu. <br>*Under review*.</span> 
 
-- **Manifold-Aligned Counterfactual Explanations for Neural Networks** † <small>[[pdf out soon]]()</small><br><span style="font-size: 0.9em;">Co-authors: W. Sun, G. Perakis. <br>*International Conference on Artificial Intelligence and Statistics (AISTATS) 2024*.</span> 
+- **Manifold-Aligned Counterfactual Explanations for Neural Networks** † <small>[[pdf]](https://proceedings.mlr.press/v238/tsiourvas24a/tsiourvas24a.pdf)</small><br><span style="font-size: 0.9em;">Co-authors: W. Sun, G. Perakis. <br>*International Conference on Artificial Intelligence and Statistics (AISTATS) 2024*.</span> 
 
 - **Neural-Informed Decision Trees** \* † <small>[[pdf]](https://charliezhaoyinpeng.github.io/EAI-KDD23/cameraready/8.pdf)</small><br><span style="font-size: 0.9em;">Co-author: G. Perakis. <br>*ACM SIGKDD 2023. Workshop on Ethical Artificial Intelligence*.</span> 
 
