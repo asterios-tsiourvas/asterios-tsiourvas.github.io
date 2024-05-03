@@ -17,9 +17,8 @@ redirect_from:
 <br>
 ## Updates
 
-  * <span style="font-size: 0.9em;">I will be presenting *Optimizing Objective Functions from Trained ReLU Neural Networks* at POMS Conference on Sunday, April 28, 2:45 PM - 4:15 PM, Skyway B.</span>
-  * <span style="font-size: 0.9em;">Our paper *Manifold-Aligned Counterfactual Explanations for Neural Networks* was accepted at AISTATS 2024!</span>
-  * <span style="font-size: 0.9em;">Our paper *A Granular Approach to Optimal and Fair Patient Placement in Hospital Emergency Departments* was accepted at POM!</span>
-  * <span style="font-size: 0.9em;">Our paper *A Granular View of the Emergency Department Length of Stay: Improving Predictive Power and Extracting Actionable Insights* was accepted at Annals of Emergency Medicine!</span>
+  * <span style="font-size: 0.9em;">Our paper *Overcoming the Optimizer's Curse: Obtaining Realistic Prescriptions from ReLU Neural Networks* was accepted at ICML 2024!</span>
+  * <span style="font-size: 0.9em;">Our paper *learning the Optimal Reconciliation for Hierarchical Time Series* was accepted at ICML 2024!</span>
+  * <span style="font-size: 0.9em;">I will be joining Jump Trading as a Quantitative Research Intern this summer in Chicago! </span>
  
 
