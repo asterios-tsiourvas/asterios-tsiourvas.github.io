@@ -18,7 +18,7 @@ redirect_from:
 ## Updates
 
   * <span style="font-size: 0.9em;">Our paper *Overcoming the Optimizer's Curse: Obtaining Realistic Prescriptions from ReLU Neural Networks* was accepted at ICML 2024!</span>
-  * <span style="font-size: 0.9em;">Our paper *learning the Optimal Reconciliation for Hierarchical Time Series* was accepted at ICML 2024!</span>
+  * <span style="font-size: 0.9em;">Our paper *Learning the Optimal Reconciliation for Hierarchical Time Series* was accepted at ICML 2024!</span>
   * <span style="font-size: 0.9em;">I will be joining Jump Trading as a Quantitative Research Intern this summer in Chicago! </span>
  
 
