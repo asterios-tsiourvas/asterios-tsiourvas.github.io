@@ -5,6 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+- Overcoming the Optimizer’s Curse: Obtaining Realistic Prescriptions from Neural Networks <br>
+ <span style="font-size: 0.9em;">*International Conference on Machine Learning (ICML) 2024.*</span>
+
+- Learning the Optimal Reconciliation for Hierarchical Time Series <br>
+ <span style="font-size: 0.9em;">*International Conference on Machine Learning (ICML) 2024.*</span>
+
 - Manifold-Aligned Counterfactual Explanations for Neural Networks <br>
  <span style="font-size: 0.9em;">*International Conference on Artificial Intelligence and Statistics (AISTATS) 2024.*</span>
 
