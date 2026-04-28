@@ -15,6 +15,10 @@ I am a Quantitative Researcher at Jump Trading and recently completed my PhD in 
 Before MIT, I completed my M.Sc. in Data Science and Machine Learning and my undergraduate degree in Electrical and Computer Engineering at the National Technical University of Athens (NTUA), Greece.
 </span>
 
+<span style="font-size: 0.9em;">
+You can find my latest CV [here](/_pages/Asterios_Tsiourvas_Academic_CV.pdf).
+</span>
+
 <br>
 
 ## Updates
@@ -22,4 +26,3 @@ Before MIT, I completed my M.Sc. in Data Science and Machine Learning and my und
 * <span style="font-size: 0.9em;">[Dec 2025] Our recent paper *Causal LLM Routing: End-to-End Regret Minimization from Observational Data* with W. Sun and G. Perakis was accepted at NeurIPS 2025.</span>
 * <span style="font-size: 0.9em;">[Sep 2025] I joined Jump Trading as a Quantitative Researcher.</span>
 * <span style="font-size: 0.9em;">[Aug 2025] I completed my PhD in Operations Research at MIT.</span>
-

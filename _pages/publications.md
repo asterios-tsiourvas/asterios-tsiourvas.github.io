@@ -29,7 +29,7 @@ author_profile: true
 
 ### Conference Proceedings
 
-- **Causal LLM Routing: End-to-End Regret Minimization from Observational Data** † <small>[[pdf]](https://openreview.net/pdf?id=iZC5xoQQkX)</small><br><span style="font-size: 0.9em;">Co-authors: W. Sun, G. Perakis. <br>Accepted at *Conference on Neural Information Processing Systems (NeurIPS) 2025*. Develops a causal end-to-end framework for routing queries across language models from observational data, directly optimizing decision quality while balancing performance and cost.</span> 
+- **Causal LLM Routing: End-to-End Regret Minimization from Observational Data** † <small>[[pdf]](https://openreview.net/pdf?id=iZC5xoQQkX)</small><br><span style="font-size: 0.9em;">Co-authors: W. Sun, G. Perakis. <br>*Conference on Neural Information Processing Systems (NeurIPS) 2025*.</span> 
 
 - **Overcoming the Optimizer's Curse: Obtaining Realistic Prescriptions from ReLU Neural Networks** † <small>[[pdf]](https://raw.githubusercontent.com/mlresearch/v235/main/assets/tsiourvas24a/tsiourvas24a.pdf)</small><br><span style="font-size: 0.9em;">Co-author: G. Perakis. <br>*International Conference on Machine Learning (ICML) 2024*.</span> 
 
@@ -51,8 +51,5 @@ author_profile: true
 ### Working Papers
 
 - **Generalisation Error Control for Physics Informed Neural Networks with Probabilistic Training** \* † <small>[[preprint out soon]]()</small><br><span style="font-size: 0.9em;">Co-authors: C. Makridakis, M. Loulakis.</span> 
-
-- **Interpretable Gradient-Based Discrete Prompt Optimization for Large Language Models** † <small>[[preprint out soon]]()</small><br> <span style="font-size: 0.9em;">Co-authors: G. Perakis, W. Sun, P. Y. Chen, Y. Zhu.</span> 
-<br> <br>
 
 <span style="font-size: 0.9em;">\* names in alphabetical order<br>† lead student author</span>
