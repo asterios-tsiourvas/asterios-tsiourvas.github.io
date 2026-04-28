@@ -19,7 +19,7 @@ Before MIT, I completed my M.Sc. in Data Science and Machine Learning and my und
 
 ## Updates
 
-* <span style="font-size: 0.9em;">Our recent paper with W. Sun and G. Perakis was accepted at NeurIPS 2025.</span>
-* <span style="font-size: 0.9em;">I joined Jump Trading as a Quantitative Researcher.</span>
-* <span style="font-size: 0.9em;">I completed my PhD in Operations Research at MIT.</span>
+* <span style="font-size: 0.9em;">[Dec 2025] Our recent paper *Causal LLM Routing: End-to-End Regret Minimization from Observational Data* with W. Sun and G. Perakis was accepted at NeurIPS 2025.</span>
+* <span style="font-size: 0.9em;">[Sep 2025] I joined Jump Trading as a Quantitative Researcher.</span>
+* <span style="font-size: 0.9em;">[Aug 2025] I completed my PhD in Operations Research at MIT.</span>
 

@@ -13,7 +13,7 @@ author_profile: true
 
 ### Journal Articles
 
-- **Optimizing Objective Functions from Trained ReLU Neural Networks** \* † <small>[[pdf]](https://arxiv.org/pdf/2205.14189.pdf) (old version)</small> <br><span style="font-size: 0.9em;">Co-author: G. Perakis. <br>Under revision at *Management Science*. 2022 INFORMS RMP Spotlight Paper.</span> 
+- **Optimizing Objective Functions from Trained ReLU Neural Networks** \* † <small>[[pdf]](https://arxiv.org/pdf/2205.14189.pdf) (old version)</small> <br><span style="font-size: 0.9em;">Co-author: G. Perakis. <br>Under Major Revision at *Management Science*. 2022 INFORMS RMP Spotlight Paper.</span> 
 
 - **A Granular View of the Emergency Department Length of Stay: Improving Predictive Power and Extracting Actionable Insights** \* † <small>[[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0196064424000945)</small><br><span style="font-size: 0.9em;">Co-authors: M. Canellas, D. Pachamanova, G. Perakis, O. Skali Lami. <br>*Annals of Emergency Medicine*.</span> 
 
@@ -28,6 +28,8 @@ author_profile: true
 - **Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality in the US** <small>[[pdf]](https://www.pnas.org/doi/epdf/10.1073/pnas.2113561119)</small><br><span style="font-size: 0.9em;">Co-authors: E. Cramer et al. <br>*Proceedings of the National Academy of Sciences (PNAS)*.</span> 
 
 ### Conference Proceedings
+
+- **Causal LLM Routing: End-to-End Regret Minimization from Observational Data** † <small>[[pdf]](https://openreview.net/pdf?id=iZC5xoQQkX)</small><br><span style="font-size: 0.9em;">Co-authors: W. Sun, G. Perakis. <br>Accepted at *Conference on Neural Information Processing Systems (NeurIPS) 2025*. Develops a causal end-to-end framework for routing queries across language models from observational data, directly optimizing decision quality while balancing performance and cost.</span> 
 
 - **Overcoming the Optimizer's Curse: Obtaining Realistic Prescriptions from ReLU Neural Networks** † <small>[[pdf out soon]]()</small><br><span style="font-size: 0.9em;">Co-author: G. Perakis. <br>*International Conference on Machine Learning (ICML) 2024*.</span> 
 
@@ -54,5 +56,3 @@ author_profile: true
 <br> <br>
 
 <span style="font-size: 0.9em;">\* names in alphabetical order<br>† lead student author</span>
-
-
