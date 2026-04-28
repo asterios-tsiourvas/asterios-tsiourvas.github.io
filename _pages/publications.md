@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and Patents"
 permalink: /publications/
 author_profile: true
 ---
@@ -51,5 +51,15 @@ author_profile: true
 ### Working Papers
 
 - **Generalisation Error Control for Physics Informed Neural Networks with Probabilistic Training** \* † <small>[[preprint out soon]]()</small><br><span style="font-size: 0.9em;">Co-authors: C. Makridakis, M. Loulakis.</span> 
+
+### US Patents
+
+- **Counterfactual Prediction and Interpretable Policy Learning from Observational Data using Prescriptive ReLU Networks** <br><span style="font-size: 0.9em;">Co-authors: M. Ettl, W. Sun. <br>US Patent App. 18/217091. Status: Published. Publication No: 20250005347.</span>
+
+- **Manifold-Aligned Counterfactual Explanations** <br><span style="font-size: 0.9em;">Co-authors: M. Ettl, W. Sun. <br>US Patent App. 18/618596. Status: Published. Publication No: 20250307599.</span>
+
+- **Hierarchical Time Series Forecasting** <br><span style="font-size: 0.9em;">Co-authors: G. Perakis, P. Y. Chen, W. Sun, W. Y. Zhu. <br>US Patent App. 18/984896. Status: Filed.</span>
+
+- **An Integrated System for LLM Routing with Observational Data** <br><span style="font-size: 0.9em;">Co-authors: W. Sun, G. Perakis. <br>Under preparation. P202501674US01 (IBMP1446US).</span>
 
 <span style="font-size: 0.9em;">\* names in alphabetical order<br>† lead author</span>

@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Publications and Patents"
     url: /publications/
+
+  - title: "Professional Service"
+    url: /professional-service/
 
   - title: "Talks"
     url: /talks/
