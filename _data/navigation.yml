@@ -3,11 +3,11 @@ main:
   - title: "Publications and Patents"
     url: /publications-and-patents/
 
-  - title: "Professional Service"
-    url: /professional-service/
-
   - title: "Talks"
     url: /talks/
+
+  - title: "Professional Service"
+    url: /professional-service/
 
   # - title: "Teaching"
   #   url: /teaching/
