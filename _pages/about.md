@@ -15,15 +15,11 @@ I am a Quantitative Researcher at Jump Trading and recently completed my PhD in 
 Before MIT, I completed my M.Sc. in Data Science and Machine Learning and my undergraduate degree in Electrical and Computer Engineering at the National Technical University of Athens (NTUA), Greece.
 </span>
 
-<span style="font-size: 0.9em;">
-My work has been supported by IBM Research, the Onassis Foundation, and the Foundation for Education and European Culture. My latest CV is available [here](./Asterios_Tsiourvas_Academic_CV.pdf).
-</span>
-
 <br>
 
 ## Updates
 
-* <span style="font-size: 0.9em;">My recent paper was accepted at NeurIPS 2025.</span>
+* <span style="font-size: 0.9em;">Our recent paper with W. Sun and G. Perakis was accepted at NeurIPS 2025.</span>
 * <span style="font-size: 0.9em;">I joined Jump Trading as a Quantitative Researcher.</span>
 * <span style="font-size: 0.9em;">I completed my PhD in Operations Research at MIT.</span>
 
