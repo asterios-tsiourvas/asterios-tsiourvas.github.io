@@ -5,26 +5,26 @@ permalink: /talks/
 author_profile: true
 ---
 
-- Causal LLM Routing: End-to-End Regret Minimization from Observational Data <br>
+- **Causal LLM Routing: End-to-End Regret Minimization from Observational Data** <br>
  <span style="font-size: 0.9em;">*Conference on Neural Information Processing Systems (NeurIPS) 2025, Greeks in AI 2025 Symposium, NTUA - Computer Systems Lab (CSLab), Invited Talk, 2025.*</span>
 
-- Overcoming the Optimizer’s Curse: Obtaining Realistic Prescriptions from Neural Networks <br>
+- **Overcoming the Optimizer’s Curse: Obtaining Realistic Prescriptions from Neural Networks** <br>
  <span style="font-size: 0.9em;">*International Conference on Machine Learning (ICML) 2024, INFORMS Annual Meeting 2024 & POMS 2024.*</span>
 
-- Learning the Optimal Reconciliation for Hierarchical Time Series <br>
+- **Learning the Optimal Reconciliation for Hierarchical Time Series** <br>
  <span style="font-size: 0.9em;">*International Conference on Machine Learning (ICML) 2024.*</span>
 
-- Manifold-Aligned Counterfactual Explanations for Neural Networks <br>
+- **Manifold-Aligned Counterfactual Explanations for Neural Networks** <br>
  <span style="font-size: 0.9em;">*International Conference on Artificial Intelligence and Statistics (AISTATS) 2024.*</span>
 
-- Learning Prescriptive ReLU Networks<br><span style="font-size: 0.9em;">*EPFL - Signal Processing Lab (LTS4) Group, 2023.*</span>
+- **Learning Prescriptive ReLU Networks**<br><span style="font-size: 0.9em;">*EPFL - Signal Processing Lab (LTS4) Group, 2023.*</span>
 
-- Neural-Informed Decision Trees<br><span style="font-size: 0.9em;">*INFORMS MSOM Conference 2023, ACM SIGKDD 2023.*</span>
+- **Neural-Informed Decision Trees**<br><span style="font-size: 0.9em;">*INFORMS MSOM Conference 2023, ACM SIGKDD 2023.*</span>
 
-- Learning Prescriptive ReLU Networks<br><span style="font-size: 0.9em;">*International Conference on Machine Learning (ICML) 2023.*</span>
+- **Learning Prescriptive ReLU Networks**<br><span style="font-size: 0.9em;">*International Conference on Machine Learning (ICML) 2023.*</span>
 
-- Optimizing Objective Functions from ReLU Neural Networks via Sampling<br><span style="font-size: 0.9em;">*INFORMS Annual Meeting 2022 & 2022 INFORMS RMP Conference (Spotlight Session).*</span>
+- **Optimizing Objective Functions from ReLU Neural Networks via Sampling**<br><span style="font-size: 0.9em;">*INFORMS Annual Meeting 2022 & 2022 INFORMS RMP Conference (Spotlight Session).*</span>
 
-- A Granular Approach to Optimal and Fair Patient Placement in Hospital Emergency Departments<br><span style="font-size: 0.9em;">*INFORMS MSOM Conference 2022.*</span>
+- **A Granular Approach to Optimal and Fair Patient Placement in Hospital Emergency Departments**<br><span style="font-size: 0.9em;">*INFORMS MSOM Conference 2022.*</span>
 
-- A Mechanism Design & Learning Approach for Revenue Maximization on Cloud Dynamic Spot Markets<br><span style="font-size: 0.9em;">*IEEE International Conference on Cloud Computing 2021.*</span>
+- **A Mechanism Design & Learning Approach for Revenue Maximization on Cloud Dynamic Spot Markets**<br><span style="font-size: 0.9em;">*IEEE International Conference on Cloud Computing 2021.*</span>
