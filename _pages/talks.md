@@ -5,8 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+- Causal LLM Routing: End-to-End Regret Minimization from Observational Data <br>
+ <span style="font-size: 0.9em;">*Conference on Neural Information Processing Systems (NeurIPS) 2025, Greeks in AI 2025 Symposium, NTUA - Computer Systems Lab (CSLab), Invited Talk, 2025.*</span>
+
 - Overcoming the Optimizer’s Curse: Obtaining Realistic Prescriptions from Neural Networks <br>
- <span style="font-size: 0.9em;">*International Conference on Machine Learning (ICML) 2024.*</span>
+ <span style="font-size: 0.9em;">*International Conference on Machine Learning (ICML) 2024, INFORMS Annual Meeting 2024 & POMS 2024.*</span>
 
 - Learning the Optimal Reconciliation for Hierarchical Time Series <br>
  <span style="font-size: 0.9em;">*International Conference on Machine Learning (ICML) 2024.*</span>
