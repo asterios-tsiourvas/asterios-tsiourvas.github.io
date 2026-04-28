@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <span style="font-size: 0.9em;">
-I am a Quantitative Researcher at Jump Trading and recently completed my PhD in Operations Research at MIT, advised by [Georgia Perakis](https://mitmgmtfaculty.mit.edu/gperakis/). My research focuses on machine learning, optimization, and decision-making in large-scale financial systems.
+I am a Quantitative Researcher at Jump Trading and recently completed my PhD in Operations Research at MIT, advised by [Georgia Perakis](https://mitmgmtfaculty.mit.edu/gperakis/). My research focuses on machine learning, optimization, and decision-focused AI, with applications in large-scale financial systems and high-stakes decision-making.
 </span>
 
 <span style="font-size: 0.9em;">
