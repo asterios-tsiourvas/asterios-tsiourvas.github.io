@@ -52,4 +52,4 @@ author_profile: true
 
 - **Generalisation Error Control for Physics Informed Neural Networks with Probabilistic Training** \* † <small>[[preprint out soon]]()</small><br><span style="font-size: 0.9em;">Co-authors: C. Makridakis, M. Loulakis.</span> 
 
-<span style="font-size: 0.9em;">\* names in alphabetical order<br>† lead student author</span>
+<span style="font-size: 0.9em;">\* names in alphabetical order<br>† lead author</span>
