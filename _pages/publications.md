@@ -1,8 +1,11 @@
 ---
 layout: archive
 title: "Publications and Patents"
-permalink: /publications/
+permalink: /publications-and-patents/
 author_profile: true
+redirect_from:
+  - /publications/
+  - /publications.html
 ---
 
 {% if site.author.googlescholar %}
