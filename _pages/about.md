@@ -7,18 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size: 0.9em;">I am a 4th year PhD candidate in Operations Research at MIT, where I am advised by [Georgia Perakis](https://mitmgmtfaculty.mit.edu/gperakis/). My research lies in the intersection of deep learning and discrete optimization with applications in neural networks optimization, causal ML, counterfactual explanations, hierarchical time series, LLMs, and healthcare. </span>
+<span style="font-size: 0.9em;">
+I am a Quantitative Researcher at Jump Trading and recently completed my PhD in Operations Research at MIT, advised by [Georgia Perakis](https://mitmgmtfaculty.mit.edu/gperakis/). My research focuses on machine learning, optimization, and decision-making in large-scale financial systems.
+</span>
 
-<span style="font-size: 0.9em;">Before that, I did my masters in Data Science & Machine Learning at the National Technical University of Athens (NTUA), Greece, advised by [Manolis Georgoulis](http://www.math.ntua.gr/~georgoulis/) and [Michail Loulakis](http://www.math.ntua.gr/~loulakis/info/Home.html). I did my undergrad in Electrical and Computer Engineering at NTUA, advised by [Nektarios Koziris](http://www.cslab.ntua.gr/~nkoziris/).</span>
+<span style="font-size: 0.9em;">
+Before MIT, I completed my M.Sc. in Data Science and Machine Learning and my undergraduate degree in Electrical and Computer Engineering at the National Technical University of Athens (NTUA), Greece.
+</span>
 
-<span style="font-size: 0.9em;">My work is supported by IBM Research, the Onassis Foundation and the Foundation for Education and European Culture.</span>
+<span style="font-size: 0.9em;">
+My work has been supported by IBM Research, the Onassis Foundation, and the Foundation for Education and European Culture. My latest CV is available [here](./Asterios_Tsiourvas_Academic_CV.pdf).
+</span>
 
-<span style="font-size: 0.9em;">My latest CV is available [here](./Asterios_Tsiourvas_Academic_CV.pdf)</span>
 <br>
+
 ## Updates
 
-  * <span style="font-size: 0.9em;">Our paper *Overcoming the Optimizer's Curse: Obtaining Realistic Prescriptions from Neural Networks* was accepted at ICML 2024!</span>
-  * <span style="font-size: 0.9em;">Our paper *Learning the Optimal Reconciliation for Hierarchical Time Series* was accepted at ICML 2024!</span>
-  * <span style="font-size: 0.9em;">I will be joining Jump Trading as a Quantitative Research Intern this summer in Chicago! </span>
- 
+* <span style="font-size: 0.9em;">My recent paper was accepted at NeurIPS 2025.</span>
+* <span style="font-size: 0.9em;">I joined Jump Trading as a Quantitative Researcher.</span>
+* <span style="font-size: 0.9em;">I completed my PhD in Operations Research at MIT.</span>
 
